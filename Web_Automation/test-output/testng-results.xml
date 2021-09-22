@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21533" started-at="2021-09-16T13:21:11 IST" finished-at="2021-09-16T13:21:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21533" started-at="2021-09-16T13:21:11 IST" finished-at="2021-09-16T13:21:33 IST">
+      <class name="co.sgtesting.dataprovidersdemo.Assignment1to5">
+        <test-method status="PASS" signature="browseer()[pri:1, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="browseer" duration-ms="3062" started-at="2021-09-16T13:21:12 IST" finished-at="2021-09-16T13:21:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseer -->
+        <test-method status="PASS" signature="navigation()[pri:2, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="navigation" duration-ms="2089" started-at="2021-09-16T13:21:15 IST" finished-at="2021-09-16T13:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="PASS" signature="login()[pri:3, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="login" duration-ms="386" started-at="2021-09-16T13:21:17 IST" finished-at="2021-09-16T13:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimise()[pri:4, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="minimise" duration-ms="1260" started-at="2021-09-16T13:21:17 IST" finished-at="2021-09-16T13:21:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimise -->
+        <test-method status="PASS" signature="creatuser()[pri:5, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="creatuser" duration-ms="3558" started-at="2021-09-16T13:21:18 IST" finished-at="2021-09-16T13:21:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatuser -->
+        <test-method status="PASS" signature="deleteusers()[pri:6, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="deleteusers" duration-ms="3221" started-at="2021-09-16T13:21:22 IST" finished-at="2021-09-16T13:21:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteusers -->
+        <test-method status="PASS" signature="modify()[pri:7, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="modify" duration-ms="2644" started-at="2021-09-16T13:21:25 IST" finished-at="2021-09-16T13:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modify -->
+        <test-method status="PASS" signature="Cproject()[pri:8, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="Cproject" duration-ms="3135" started-at="2021-09-16T13:21:28 IST" finished-at="2021-09-16T13:21:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cproject -->
+        <test-method status="PASS" signature="creatproject()[pri:9, instance:co.sgtesting.dataprovidersdemo.Assignment1to5@d44fc21]" name="creatproject" duration-ms="2079" started-at="2021-09-16T13:21:31 IST" finished-at="2021-09-16T13:21:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatproject -->
+      </class> <!-- co.sgtesting.dataprovidersdemo.Assignment1to5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
